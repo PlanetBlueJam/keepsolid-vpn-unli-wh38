@@ -1,4 +1,4 @@
-
+updated Encrypt.me Extension | smart-DNS + DNS-leak-protection offers the most advanced Encrypt.me extension, with smart-DNS and DNS-leak-protection. Ideal for users who value
 
 
 
